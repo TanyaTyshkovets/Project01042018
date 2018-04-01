@@ -1,0 +1,28 @@
+E:\ШАГ С++\HW_less2\HW_less2\bin\Debug\HW_less2.exe.config
+E:\ШАГ С++\HW_less2\HW_less2\bin\Debug\HW_less2.exe
+E:\ШАГ С++\HW_less2\HW_less2\bin\Debug\HW_less2.pdb
+E:\ШАГ С++\HW_less2\HW_less2\obj\Debug\HW_less2.csprojResolveAssemblyReference.cache
+E:\ШАГ С++\HW_less2\HW_less2\obj\Debug\HW_less2.Form1.resources
+E:\ШАГ С++\HW_less2\HW_less2\obj\Debug\HW_less2.Properties.Resources.resources
+E:\ШАГ С++\HW_less2\HW_less2\obj\Debug\HW_less2.csproj.GenerateResource.Cache
+E:\ШАГ С++\HW_less2\HW_less2\obj\Debug\HW_less2.exe
+E:\ШАГ С++\HW_less2\HW_less2\obj\Debug\HW_less2.pdb
+F:\ШАГ\HW_less2\HW_less2\bin\Debug\HW_less2.exe.config
+F:\ШАГ\HW_less2\HW_less2\bin\Debug\HW_less2.exe
+F:\ШАГ\HW_less2\HW_less2\bin\Debug\HW_less2.pdb
+F:\ШАГ\HW_less2\HW_less2\obj\Debug\HW_less2.csprojResolveAssemblyReference.cache
+F:\ШАГ\HW_less2\HW_less2\obj\Debug\HW_less2.Form1.resources
+F:\ШАГ\HW_less2\HW_less2\obj\Debug\HW_less2.Properties.Resources.resources
+F:\ШАГ\HW_less2\HW_less2\obj\Debug\HW_less2.csproj.GenerateResource.Cache
+F:\ШАГ\HW_less2\HW_less2\obj\Debug\HW_less2.csproj.CoreCompileInputs.cache
+F:\ШАГ\HW_less2\HW_less2\obj\Debug\HW_less2.exe
+F:\ШАГ\HW_less2\HW_less2\obj\Debug\HW_less2.pdb
+I:\ШАГ\HW_less2new\HW_less2\bin\Debug\HW_less2.exe.config
+I:\ШАГ\HW_less2new\HW_less2\obj\Debug\HW_less2.exe
+I:\ШАГ\HW_less2new\HW_less2\obj\Debug\HW_less2.pdb
+I:\ШАГ\HW_less2new\HW_less2\bin\Debug\HW_less2.exe
+I:\ШАГ\HW_less2new\HW_less2\bin\Debug\HW_less2.pdb
+I:\ШАГ\HW_less2new\HW_less2\obj\Debug\HW_less2.csprojResolveAssemblyReference.cache
+I:\ШАГ\HW_less2new\HW_less2\obj\Debug\HW_less2.Form1.resources
+I:\ШАГ\HW_less2new\HW_less2\obj\Debug\HW_less2.Properties.Resources.resources
+I:\ШАГ\HW_less2new\HW_less2\obj\Debug\HW_less2.csproj.GenerateResource.Cache
